@@ -1,0 +1,5 @@
+username = saikiranvarma;
+password = PBvfuRR0WPoaXpYd
+
+ip = 27.62.186.172/32;
+uri = mongodb+srv://saikiranvarma:<password>@saikiranvarmaapi.wpixz6q.mongodb.net/?retryWrites=true&w=majority
