@@ -31,4 +31,6 @@ const apiSchema = new mongoose.Schema({
 
 });
 
-module.exports = mongoose.model("Product",apiSchema);
+const model = mongoose.model("Product",apiSchema);
+
+module.exports = model;
