@@ -7,7 +7,7 @@ const connectDB = require("./db/connect");
 
 const PORT = process.env.PORT || 5000
 app.get("/",(req,res)=>{
-    res.send("boom")
+    res.send("Hit---'/api/products' to access the apis")
 });
 
 //middleware to set router
